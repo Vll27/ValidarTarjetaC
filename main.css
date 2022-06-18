@@ -1,0 +1,40 @@
+body{
+  background-image: url(https://img5.goodfon.com/wallpaper/nbig/f/e1/tsvet-forma-fon-230.jpg);
+  background-position: center;
+  background-size: cover;
+  font-family: sans-serif;
+  margin-top: 4%;
+}
+.resultado {
+    background-color: rgb(124, 139, 131);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    margin: 10px;
+    display: none;
+}
+.titulo {
+    color: white;
+    text-align: center;
+}
+.formulario {
+    background-color: rgba(0, 0, 0, 0.4);
+    max-width: 30%;
+    margin: 0 auto;
+    color: white;
+    padding: 50px;
+}
+.boton-validar {
+    margin: 10px auto;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    color: white;
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.boton-validar:hover{
+    background: rgba(224, 233, 100, 0.932);
+}
+
